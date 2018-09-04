@@ -1,7 +1,7 @@
 ## Hello
 # First
 And try to retrieve this.
-This is changed by another local.
+This is changed by another local. This is added in the fix.
 Ok, this is going to be a conflict.
 We want a conflict!
 And an
