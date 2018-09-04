@@ -10,3 +10,4 @@ added line.
 OK, but this is changed by another person.
 
 Also here we want a conflict.
+OK, another conflic.
