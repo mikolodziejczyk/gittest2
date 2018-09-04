@@ -17,3 +17,5 @@ yet another version v3.0
 fourth version
 
 This is a commit in testing branch.
+
+Conflict 1.
