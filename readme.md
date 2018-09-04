@@ -15,3 +15,5 @@ OK, another conflic.
 A new version v2.0
 yet another version v3.0
 fourth version
+
+This is a commit in testing branch.
