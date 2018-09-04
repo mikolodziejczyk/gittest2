@@ -10,3 +10,5 @@ added line.
 OK, but this is changed by another person.
 OK, another conflic.
 Some changes in readme.
+
+A new change.
