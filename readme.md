@@ -8,3 +8,4 @@ And an
 added line.
 
 OK, but this is changed by another person.
+OK, another conflic.
