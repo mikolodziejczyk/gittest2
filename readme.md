@@ -21,3 +21,4 @@ This is a commit in testing branch.
 And this is what we reguarly do.
 
 Conflict 2. 
+Conflict 1.
