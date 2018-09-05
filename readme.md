@@ -34,3 +34,6 @@ The second error. 2018_09 2
 The third error. 2018_09 3
 
 Changes to master merged successfully.
+
+Adding contact information:
+This is the completion of feature_1.
