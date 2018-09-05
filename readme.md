@@ -29,3 +29,5 @@ And some more work on master.
 Second user: Creating a hotfix for the release.
 
 This comes from a hotfix 2018 09 after a major relase.
+And continuing work on fixes in this hotfix.
+
