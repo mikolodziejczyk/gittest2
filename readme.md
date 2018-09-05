@@ -27,3 +27,10 @@ Doing some more work on master.
 And some more work on master.
 
 This user patiently adds some new functionality while other work on 2018_09 fix.
+Second user: Creating a hotfix for the release.
+
+OK, corrected first  error. 2018_09
+The second error. 2018_09 2
+The third error. 2018_09 3
+
+Changes to master merged successfully.
