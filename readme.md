@@ -24,3 +24,5 @@ Conflict 2.
 Conflict 1.
 
 Doing some more work on master.
+
+Second user: Creating a hotfix for the release.
