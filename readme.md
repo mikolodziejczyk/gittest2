@@ -25,3 +25,5 @@ Conflict 1.
 
 Doing some more work on master.
 And some more work on master.
+
+This user patiently adds some new functionality while other work on 2018_09 fix.
