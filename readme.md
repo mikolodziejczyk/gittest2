@@ -40,4 +40,5 @@ This is the completion of feature_1.
 
 And a regular progress in the master branch.
 
-And regular progress of the second user.
+And regular progress of the second user.x
+
