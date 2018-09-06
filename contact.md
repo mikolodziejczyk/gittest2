@@ -4,3 +4,4 @@ And these changes were made in master.
 This is added in feature_3.
 
  A change.
+ Yet another change.
